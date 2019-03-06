@@ -9,7 +9,7 @@
 
 int main()
 {
-    char initial_image[101], encrypted_image[101], secret_key[20],option[2];
+    char initial_image[101], encrypted_image[101], secret_key[20];
 
     /// Encryption.
 /*
